@@ -8,6 +8,8 @@ A two player game where the objective is to destroy all atoms of your opponents 
 
 git clone https://github.com/KhangNguyen220/Atomination.git
 
+cd Atomination
+
 ./buildgui.sh
 
 
