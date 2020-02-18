@@ -1,0 +1,12 @@
+start 2 5 5
+place 0 0
+place 0 1
+place 1 0
+place 0 1
+place 1 0
+place 4 0
+display
+place 0 0
+display
+stat
+quit
