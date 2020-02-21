@@ -1,5 +1,6 @@
 # Atomination
 
+<img src="image/good.gif" width="500">
 
 # Intro
 A two player game where the objective is to destroy all the atoms of your opponents so you are the remaining player. Each player puts an atom into a grid cell and thereby increasing the grid cell atom number. As each grid has a specific explosion value which means when too many atoms are placed in the same grid, an explosion occurs. One explosion can set off explosions to neighbouring grid cells, thereby possibly causing a chaining of explosions to occur.
